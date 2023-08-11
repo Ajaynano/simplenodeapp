@@ -8,7 +8,7 @@ jobs:
       env:
         MY_VAR: Hi there! My name is
         FIRST_NAME: Ajay
-        MIDDLE_NAME: -
+        MIDDLE_NAME: Rocky
         LAST_NAME: Raghu
       run: |
         echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME
